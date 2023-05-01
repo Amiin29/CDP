@@ -1,0 +1,146 @@
+{
+  "AccesHoraires":
+  [
+    {
+        "AccHorIcon": "a[title='Accès & horaires']",
+        "ItButton": "div[class='green-btn  cartmap-btn']"
+    }
+  ],
+  "Accueil":
+  [
+    {
+        "Thistime": "//*[@id='thismoment']/div/div[1]/div/div[1]/a",
+        "VoirPlus": "span[class='voir-plus-link']",
+        "fruit": "img[alt='Framboises']",
+        "legume": "img[alt='Betteraves rouges']",
+        "fleur": "img[alt='Fleurs à sécher : les immortelles et les statices']",
+        "FirstElementSlideshow": "//*[@id='slider1_container']/ol/li[1]",
+        "SecondElementSlideshow": "//*[@id='slider1_container']/ol/li[2]",
+        "ThirdElementSlideshow": "//*[@id='slider1_container']/ol/li[3]",
+        "FourthElementSlideshow": "//*[@id='slider1_container']/ol/li[4]",
+        "Decouvrir1": "//*[@id='inner-corousel']/div[1]/div/div/div/div/div[3]/a",
+        "Decouvrir3": "//*[@id='inner-corousel']/div[3]/div/div/div/div/div[3]/a",
+        "Decouvrir4": "//*[@id='inner-corousel']/div[4]/div/div/div/div/div[3]/a",
+        "Bloc1": "//*[@id='cartridge']/div[1]/div/a/h2",
+        "Bloc2": "//*[@id='cartridge']/div[2]/div/a/h2",
+        "Bloc3": "//*[@id='u_0_2_ta']",
+        "Bloc4": "//*[@id='cartridge']/div[4]/div/a/h2'",
+        "Actualités": "//*[@id='main']/div[2]/div[2]/a",
+        "Actualité1": "//*[@id='main']/div[2]/div[1]/div[1]/a",
+        "Actualité2": "//*[@id='main']/div[2]/div[1]/div[2]/a",
+        "AccueilConseil": "//*[@id='inyours']/div[1]/div[1]",
+        "Circuit": "//*[@id='inyours']/div[1]/div[2]",
+        "Prix": "//*[@id='inyours']/div[1]/div[3]",
+        "Animaux": "//*[@id='inyours']/div[1]/div[4]",
+        "Location": "//*[@id='footer']/div[1]/div/div[1]/div[2]/div[1]/div/span/a/span[1]",
+        "Phone": "//*[@id='footer']/div[1]/div/div[1]/div[2]/div[3]/p/a/span[1]",
+        "Email": "//*[@id='footer']/div[1]/div/div[1]/div[2]/div[2]/p/span/a/span[1]",
+        "Facebook": "//*[@id='footer']/div[1]/div/div[1]/div[2]/div[4]/a/p/em",
+        "NewsletterWrite": "//*[@id='email-newsletter-subscription-footer-1']",
+        "NewsletterAbonne": "//*[@id='newsletter-form-footer-1']/div/button",
+        "MangerBouger": "//*[@id='footer']/div[2]/div[1]/a",
+        "MentionsLegales": "//*[@id='footer']/div[2]/div[2]/a"
+    }
+  ],
+  "Actualités": 
+  [
+    {
+        "Toutbutton": "//*[@id='content-widget']/div/div[1]",
+        "eventbutton": "//*[@id='categ-select']/option[2]",
+        "search": "//*[@id='content-widget']/div/div[2]/form/div/input",
+        "searchbutton": "//*[@id='content-widget']/div/div[2]/form/div/button"
+    }
+  ],
+  "Apropos": 
+  [
+    {
+        "Dropdown": "//*[@id='jMenu']/li[1]",
+        "Dropdownelement1": "//*[@id='jMenu']/li[1]/ul/li[1]",
+        "Dropdownelement2": "//*[@id='jMenu']/li[1]/ul/li[2]",
+        "Dropdownelement3": "//*[@id='jMenu']/li[1]/ul/li[3]",
+        "Dropdownelement4": "//*[@id='jMenu']/li[1]/ul/li[4]",
+        "Dropdownelement5": "//*[@id='jMenu']/li[1]/ul/li[5]"
+        
+    }
+  ],
+  "Calendrier": 
+  [
+    {
+        "CalendarIcon": "a[class='calendar-products-page-link']",
+        "YearButton": "allmonth",
+        "ThisMomentButton": "thistime",
+        "FruitButton": "dd[ref='frt']",
+        "LegumeButton": "dd[ref='lgm']",
+        "FlowerButton": "dd[ref='flowr']",
+        "Recolte": "",
+        "AllButton": ""
+    }
+  ],
+  "Culture":
+   [
+    {
+        "Dropdown": "//*[@id='jMenu']/li[3]",
+        "Dropdownelement1": "//*[@id='jMenu']/li[3]/ul/li[1]",
+        "Dropdownelement2": "//*[@id='jMenu']/li[3]/ul/li[2]",
+        "Dropdownelement3": "//*[@id='jMenu']/li[3]/ul/li[3]",
+        "Dropdownelement4": "//*[@id='jMenu']/li[3]/ul/li[4]",
+        "Dropdownelement5": "//*[@id='jMenu']/li[3]/ul/li[5]"
+    }
+  ],
+  "Ecole":
+  [
+   {
+       "EcoleButton": "//ul[@class=\"centered text-s-1 jMenu\"]/li[5]",
+       "OffreButton": "//ul[@class='centered text-s-1 jMenu']/li[5]/ul[@class='submenu']/li[1]",
+       "ReservationsButton": "//ul[@class='centered text-s-1 jMenu']/li[5]/ul[@class='submenu']/li[2]"
+   }
+ ],
+  "Magazin":
+  [
+    {
+        "MagazinButton": "boutique-link-4"
+    }
+  ],
+  "Recrutement":
+  [
+    {
+        "OffersButton": "div[class='btn-recrutement green-btn']",
+        "OfferButton": "div[class='large-3 medium-3 small-4 columns voir-plus']",
+        "PostuleButton": "div[class='large-12 medium-12 small-12 columns postuler']"
+    }
+  ],
+  "Recoltes": 
+  [
+    {
+        "Dropdown": "//*[@id='jMenu']/li[2]",
+        "Dropdownelement1": "//*[@id='jMenu']/li[2]/ul/li[1]",
+        "Dropdownelement2": "//*[@id='jMenu']/li[2]/ul/li[2]",
+        "Dropdownelement3": "//*[@id='jMenu']/li[2]/ul/li[3]",
+        "Recette": "//*[@id='main']/div[1]/div/a/div/div[2]/div",
+        "fruit": "//*[@id='main']/div[2]/div/section[1]/div/div/div/a/img",
+        "legume": "//*[@id='main']/div[2]/div/section[2]/div/div/div/a/img",
+        "fleur": "//*[@id='main']/div[2]/div/section[3]/div/div/div/a/img",
+        "Suivant": "//*[@id='main']/div/div/div[1]/ul/div/li[2]/a/div[1]",
+        "Precedant": "//*[@id='main']/div/div/div[1]/ul/div/li[1]/a/div[1]",
+        "Tout": "//*[@id='main']/div/div/div[1]/ul/li/a/div[1]"
+    }
+  ],
+  "ReseauxSociaux": 
+  [
+    {
+        "SuivezIcon": "//*[@id='social_media']/a/em",
+        "FbIcon": "//*[@id='footer']/div[6]/div[1]/a/em",
+        "YtIcon": "//*[@id='footer']/div[6]/div[2]/a/em"
+    }
+  ],
+  "Visite":
+  [
+
+    {
+        "VisiteDropdown": "//ul[@class=\"centered text-s-1 jMenu\"]/li[4]",
+        "AccesHoraireElement": "//*[@id=\"jMenu\"]/li[4]/ul/li[1]/a",
+        "IteneraireButton": "div[class=\"green-btn  cartmap-btn\"]",
+        "VisitePreparationElement": "//*[@id=\"jMenu\"]/li[4]/ul/li[2]"
+    }
+  ]
+}
